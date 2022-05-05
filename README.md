@@ -1,7 +1,7 @@
 # OpenWeatherApp
 Simple NodeJS Weather App using openweathermap.org API
 
-![App gif preview](https://github.com/konopat/Open-Weather-NodeJS-App/blob/c41d6dce03c82648558497d4b0f9471f00ecb0ec/WeaterAppDemo.gif)
+![App gif preview](https://github.com/konopat/OpenWeatherApp/blob/734cec22bd6b37899574f56cfa3fc29627556c15/WeaterAppDemo.gif)
 
 ### Using modules:
 
